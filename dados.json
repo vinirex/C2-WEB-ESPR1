@@ -1,0 +1,18 @@
+{
+    "produto":[
+        {
+            "id":"1",
+            "nome":"Mouse Gamer",
+            "desc":"Melhor Mouse",
+            "valor":500
+        },
+        {
+            "id":"2",
+            "nome":"Teclado Games",
+            "desc":"teclado sem fio",
+            "valor":600
+        }
+      
+
+    ]
+}
