@@ -5,7 +5,7 @@ function Footer() {
 
   return (
     <>
-       <h5>@2024-todos os direitos reservados.</h5>
+       <h5>@2024-loja de MU</h5>
     </>
   );
 }

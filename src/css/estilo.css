@@ -205,10 +205,12 @@ form textarea {
 }
 .login form {
   background-color: #fff;
+  border-radius: .5rem;
+  padding: 1rem;
  
 }
 .login p {
-  color: blue;
+  color: rgb(0, 0, 0);
 }
 .login input {
   width: 150px;
@@ -219,11 +221,13 @@ form textarea {
   width: 100px;
   height: 50px;
   margin-left: 100px;
+  background-color: #4b0082;
+  border-radius: .5rem;
 }
 .frmCep {
   padding-top: 120px;
 }
 #texto{
-  color:blue;
+  color:rgb(0, 0, 0);
   padding-top: 15px;
 }
