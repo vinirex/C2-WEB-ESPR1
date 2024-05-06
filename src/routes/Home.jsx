@@ -1,4 +1,4 @@
-import {} from 'react';
+import { } from 'react';
 import '../css/estilo.css';
 
 
@@ -12,7 +12,20 @@ function Home() {
           <p>CONHEÇAS OS NOVOS PRODUTOS DA LOJA</p>
           <a href="" className="btn">
             Conheça mais
-          </a>       
+          </a>
+        </div>
+      </div>
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="..." class="d-block w-100" alt="..."></img>
+          </div>
+          <div class="carousel-item">
+            <img src="..." class="d-block w-100" alt="..."></img>
+          </div>
+          <div class="carousel-item">
+            <img src="..." class="d-block w-100" alt="..."></img>
+          </div>
         </div>
       </div>
     </>
