@@ -5,7 +5,7 @@ function Footer() {
 
   return (
     <>
-       <h5>@2024-loja de MU</h5>
+       <h5>@2024-LOJA DE MUSICA AGNELLO</h5>
     </>
   );
 }
