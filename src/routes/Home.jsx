@@ -1,5 +1,6 @@
 import { } from 'react';
 import '../css/estilo.css';
+import foto from'../assets/music-hero.jpg'
 
 
 function Home() {
@@ -18,10 +19,10 @@ function Home() {
       <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="..." class="d-block w-100" alt="..."></img>
+            <img src={foto} class="d-block w-100" alt="..."></img>
           </div>
           <div class="carousel-item">
-            <img src="..." class="d-block w-100" alt="..."></img>
+            <img src="./assets/fundo.jpg" class="d-block w-100" alt="..."></img>
           </div>
           <div class="carousel-item">
             <img src="..." class="d-block w-100" alt="..."></img>
