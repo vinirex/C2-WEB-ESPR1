@@ -2,13 +2,13 @@
     "produto":[
         {
             "id":"1",
-            "nome":"Mouse Gamer",
-            "desc":"Melhor Mouse",
+            "nome":"Guitarra",
+            "desc":"Melhor guitarra",
             "valor":500
         },
         {
             "id":"2",
-            "nome":"Teclado Games",
+            "nome":"Teclado Topzera",
             "desc":"teclado sem fio",
             "valor":600
         }
